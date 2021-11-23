@@ -2,13 +2,15 @@
 - 📛 he/him or they/them
 - 👀 I’m interested in
   - 🎲 🃏 ♟️ 🎮 Gaming of all kinds
-  - 🌐 🤟 Linguistics, languages, and communication
   - 🤖 CS, software design, and engineering
+  - 🌐 🤟 Linguistics, languages, and communication
   - 🧶 Knitting and crocheting
-- 🌱 I’m currently learning
-  - Python, C/C++, JS, HTML/CSS
-  - Web dev
-  - NLP
+- 🌱 I’m currently learning/using
+  - Python for data science scripting
+  - JavaScript for web and mobile development
+    - React
+    - React Native
+    - Redux
   - 🇫🇷 French
   - 🧏 ASL
 - 📫 Email: chris@wugs.me
