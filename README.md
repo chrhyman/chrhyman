@@ -6,11 +6,13 @@
   - 🌐 🤟 Linguistics, languages, and communication
   - 🧶 Knitting and crocheting
 - 🌱 I’m currently learning/using
+  - Java (especially Spring Boot) for most applications (+ sometimes Scala too!)
   - Python for data science scripting
-  - JavaScript for web and mobile development
-    - React
-    - React Native
-    - Redux
+  - TypeScript for web and mobile development (please don't make me write *too* much raw JavaScript!)
+    - React and React Native
+    - Redux, particularly React Redux (including RTK Query)
+    - MaterialUI (Emotion-backed Theme)
+    - AngularJS for some legacy maintenance
   - 🇫🇷 French
   - 🧏 ASL
 - 📫 Email: chris@wugs.me
